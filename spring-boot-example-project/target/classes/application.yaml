@@ -1,0 +1,11 @@
+#servlet related configuration
+#=================
+server:
+ servlet:
+  context-path: /fixed-term-deposit-api
+  encoding:
+    charset: UTF-8
+    force: true
+#####
+api:
+  version: v1
